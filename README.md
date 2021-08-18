@@ -1,4 +1,4 @@
-# api_with_provider
+# api_provider
 
 A new Flutter project for MVC with Provider.
 
@@ -11,5 +11,5 @@ This project is a demo Api calling with Provider State management.
  - Create/update/delete Post.
 
 ## Reference
-https://pub.dev/packages/provider
-https://reqres.in/
+- https://pub.dev/packages/provider
+- https://reqres.in/
